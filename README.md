@@ -4,11 +4,13 @@
 <span><img width="450" src="./documentation/readme/Logo.png"/></span><br>
 
 # Plants vs. Zombies 2 Level Editor
+
 **Plants vs. Zombies 2 Level Editor**, also referred to as **Level Editor**, **PvZ2: LE** or simply **LE**, is a Windows GUI tool for generating PvZ2 levels.
 It is written in C++ using SFML and it provides essential functionality for level creation.
 
 ## 🛠 State of Development
 <a name="Development"></a>
+
 The project has been archived after being completed and can now be accessed for reference and portfolio purposes. This repository has two branches:
 
 * [``2.0.x``](https://github.com/blazingzephyr/level-editor/tree/2.0.x) branch is the complete stable version of the tool.
@@ -16,6 +18,7 @@ The project has been archived after being completed and can now be accessed for 
 
 ## 📝 Goals
 <a name="Goals"></a>
+
 Originally, when starting this project, I persuaded the following goals:
 
 * Remaking an old low-quality tool I made back in 2020 (Currently referred to as ``1.0``).
@@ -25,6 +28,7 @@ Originally, when starting this project, I persuaded the following goals:
 
 ## 📃 Features & Capabilities
 <a name="Features"></a>
+
 Set of features, supported by the tool:
 
 * Core features, such as JSON export.
@@ -40,14 +44,17 @@ Set of features, supported by the tool:
 
 ## 🛡 Download
 <a name="Download"></a>
+
 You can get the latest compiled release [here](https://github.com/blazingzephyr/level-editor/releases/tag/2023.01.27-stable).
 
 ## 📂 Installation
 <a name="Installation"></a>
+
 If you have downloaded the compiled release, the installation is as simple as extracting an archive.
 
 ## ⚙ Build from Source
 <a name="Build"></a>
+
 Alternatively, you could build the source yourself using VS2022.
 
 ## 💡 Author
